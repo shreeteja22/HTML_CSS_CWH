@@ -1,5 +1,17 @@
-
-#first{
-    background-color: aqua;
-    color: crimson;
+*{
+    margin: 0;
+    padding: 0;
 }
+.green{
+    background: green;
+    color: red;
+}
+.yellow{
+    background-color: yellow;
+    color: green;
+}
+.red{
+    background: red;
+    color: yellow;
+}
+
